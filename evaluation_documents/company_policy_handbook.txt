@@ -1,0 +1,15 @@
+# ACCURATE AI OPERATIONS & EMPLOYEE POLICY HANDBOOK (2026)
+
+## SECTION 1: REMOTE WORK AND EQUIPMENT ALLOWANCE
+All regular full-time team members are eligible for a one-time remote home office setup stipend of $1,500 upon commencement of employment. Additionally, an annual tech refresh allowance of $800 is credited on January 1st of each calendar year. Standard core collaboration hours across all regional teams are 10:00 AM to 3:00 PM in each employee's local hub time zone.
+
+## SECTION 2: PAID TIME OFF (PTO) AND PARENTAL LEAVE
+1. Annual Vacation: Employees accrue 25 paid vacation days per calendar year in addition to 11 recognized public holidays.
+2. Parental Leave: Primary and secondary caregivers are entitled to 18 weeks of 100% paid parental leave following the birth, adoption, or foster placement of a child.
+3. Wellness Days: 4 discretionary wellness recharge days are granted per fiscal year and do not roll over into subsequent periods.
+
+## SECTION 3: TRAVEL REIMBURSEMENT AND EXPENSES
+Meal expenses during company-authorized business travel are reimbursed up to a per diem cap of $85 per day ($110 per day in Tier 1 cities including New York, London, Tokyo, and Zurich). Flight bookings for flights exceeding 6 hours in total duration are eligible for Premium Economy class.
+
+## SECTION 4: DATA SECURITY AND DEVICE COMPLIANCE
+Company laptops must run disk encryption and 2FA authentication via hardware keys or authenticator apps. Sensitive customer documents must never be uploaded to unapproved consumer AI services or external untrusted endpoints.
